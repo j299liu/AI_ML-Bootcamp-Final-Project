@@ -1,4 +1,4 @@
-This is the submission version for AI/ML Bootcamp Final Project at Gateshead College, 2025/04/13.
+This is the submission version for a two-week AI/ML Bootcamp Final Project at Gateshead College, 2025/04/13.
 
 Please follow the steps to run the Final Project:
 1. Open folder 'data', and download HDF5 version of data into this folder. (~ 5.9 GB)
