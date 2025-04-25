@@ -8,3 +8,5 @@ Please follow the steps to run the Final Project:
 Note:
 - To make the report clean, a python file with helper functions created for this project is located at the folder helper_functions.
 - Figure included in 'main.ipynb' can be found at './figures/final'
+
+![B1_fridge_cost_overall_plot](https://github.com/user-attachments/assets/320dff86-17df-4d7d-aa15-95e4fe930479)
